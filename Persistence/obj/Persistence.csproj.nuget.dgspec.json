@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj": {
+    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-        "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\obj\\",
+        "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Persistence\\Persistence.csproj": {
+    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-        "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj"
+              "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj"
               }
             }
           }

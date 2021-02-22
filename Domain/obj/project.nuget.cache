@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CmB8YzgVti4onTpMrlzp8DCEgh1F0SFqa/rc/wTg0KS/hQWFKDRqaoH7fyt5YckzLRG771dZqAtPyDV2ZIpZjg==",
+  "dgSpecHash": "5gPKATJIfBtOLOTj0ZTK893cg90iNcyqoKA5Kk6NQo/BVAfVuTwd0Bfla/VbcfZII5h3OEi0Rpn/byQacJU52Q==",
   "success": true,
-  "projectFilePath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

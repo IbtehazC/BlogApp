@@ -10,3 +10,15 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\Domain\obj\Debug\net5.0\Domain.cspr
 F:\Tutorials Tasks\DotNet+React\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\bin\Debug\net5.0\Domain.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Domain\obj\Debug\net5.0\Domain.pdb
