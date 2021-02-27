@@ -128,3 +128,6 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\obj\Debug\net5.0\API.pd
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\AutoMapper.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\FluentValidation.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
