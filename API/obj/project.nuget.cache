@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/8irk/yOBRazhdm6DoUSGRnukjkxWJY4SboHcd9wojP7bwwL2I3SLKF4IMZsYS8GgLa03vbLnw5hfMQe4/IDdQ==",
+  "dgSpecHash": "HNriMmqZkDkUsuSXKPiHocMi/mfiT7yw+SqHfG69o8H6FMIoY84XkV3v5m/pLPyuttJwrIPWKCMsgfcpN4dPOA==",
   "success": true,
-  "projectFilePath": "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
+  "projectFilePath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ibtehaz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Ibtehaz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

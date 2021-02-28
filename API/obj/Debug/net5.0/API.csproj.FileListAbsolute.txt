@@ -136,3 +136,10 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Micros
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

@@ -2024,11 +2024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
+      "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
+      "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-      "outputPath": "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\obj\\",
+      "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2045,8 +2045,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj": {
-              "projectPath": "f:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj"
+            "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj": {
+              "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj"
             }
           }
         }
