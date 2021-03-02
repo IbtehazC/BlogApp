@@ -143,3 +143,5 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Micros
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Infrastructure.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Infrastructure.pdb
