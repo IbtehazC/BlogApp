@@ -147,3 +147,5 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Infras
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Infrastructure.pdb
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Npgsql.dll
+F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
