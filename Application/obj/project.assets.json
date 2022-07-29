@@ -1566,19 +1566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ibtehaz\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Repositories\\BlogApp\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-      "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\obj\\",
+      "projectPath": "D:\\Repositories\\BlogApp\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\BlogApp\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1592,11 +1592,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj"
+            "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj"
             },
-            "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj": {
-              "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Persistence\\Persistence.csproj"
+            "D:\\Repositories\\BlogApp\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Repositories\\BlogApp\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1639,7 +1639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

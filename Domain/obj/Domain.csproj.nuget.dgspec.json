@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj": {}
+    "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj": {
+    "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-        "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Domain\\obj\\",
+        "projectPath": "D:\\Repositories\\BlogApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\BlogApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

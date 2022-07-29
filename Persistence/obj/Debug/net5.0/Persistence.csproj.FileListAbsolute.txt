@@ -28,3 +28,18 @@ F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Persistence\obj\Debug\net5.
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Persistence\obj\Debug\net5.0\Persistence.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 F:\Tutorials Tasks\DotNet+React\Reactivities\BlogApp\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\Repositories\BlogApp\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Repositories\BlogApp\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Repositories\BlogApp\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Repositories\BlogApp\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Repositories\BlogApp\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\refint\Persistence.dll
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\Repositories\BlogApp\Persistence\obj\Debug\net5.0\ref\Persistence.dll

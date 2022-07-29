@@ -2202,19 +2202,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ibtehaz\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\Repositories\\BlogApp\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Ibtehaz\\.nuget\\packages\\",
-      "outputPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\API\\obj\\",
+      "projectPath": "D:\\Repositories\\BlogApp\\api\\API.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\BlogApp\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ibtehaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2228,11 +2228,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj": {
-              "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Application\\Application.csproj"
+            "D:\\Repositories\\BlogApp\\Application\\Application.csproj": {
+              "projectPath": "D:\\Repositories\\BlogApp\\Application\\Application.csproj"
             },
-            "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "F:\\Tutorials Tasks\\DotNet+React\\Reactivities\\BlogApp\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Repositories\\BlogApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Repositories\\BlogApp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -2304,7 +2304,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
